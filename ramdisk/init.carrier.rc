@@ -27,4 +27,3 @@ on property:sys.mobicoredaemon.enable=true
 	user system
 	group system
 	oneshot
-	disabled
